@@ -54,15 +54,6 @@ Streamlit app for pulling and visualizing stock, index, and crypto data — retu
 </td>
 <td width="50%" valign="top">
 
-**[pdv-food](https://github.com/fsoaz/pdv-food)**
-Food POS modernization backend — an API-first FastAPI service with domain separation, repository boundaries, and mocked payment/delivery/legacy-POS adapters.
-`Python` `FastAPI` `PostgreSQL` `Alembic`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 **[Trial Reminder](https://github.com/fsoaz/TrialReminderApp)**
 Native Android app that tracks free-trial end dates and fires exact, reboot-proof reminders before you get charged.
 `Kotlin` `Room` `Clean Architecture`
@@ -85,9 +76,9 @@ Computed from bytes across my public, non-fork repositories — refreshed automa
 <!-- RECENT_ACTIVITY:START -->
 - **[github-page](https://github.com/fsoaz/github-page)** `HTML` · _today_
 - **[dental-radar](https://github.com/fsoaz/dental-radar)** `Python` · _today_
-- **[pdv-food](https://github.com/fsoaz/pdv-food)** `Python` · _3d ago_
 - **[sales-analysis-dashboard](https://github.com/fsoaz/sales-analysis-dashboard)** `Python` · _8d ago_
 - **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _8d ago_
+- **[wiki](https://github.com/fsoaz/wiki)** `Python` · _8d ago_
 <!-- RECENT_ACTIVITY:END -->
 
 ---

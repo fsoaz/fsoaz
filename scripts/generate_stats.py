@@ -21,6 +21,11 @@ API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# Coursework and one-off repos that shouldn't surface in the "Recently
+# shipped" feed — they're real repos (and still count toward the language
+# chart), just not part of this profile's professional narrative.
+ACTIVITY_EXCLUDE = {"pdv-food"}
+
 # Approximate linguist-style colors, tuned to stay legible on both a light
 # and a dark background.
 LANGUAGE_COLORS = {
@@ -126,7 +131,7 @@ def render_language_svg(buckets: list[tuple[str, int]], *, dark: bool) -> str:
 
 def render_recent_activity(repos: list[dict], limit: int = 5) -> str:
     ranked = sorted(
-        (r for r in repos if r["name"] != USERNAME),
+        (r for r in repos if r["name"] != USERNAME and r["name"] not in ACTIVITY_EXCLUDE),
         key=lambda r: r["pushed_at"],
         reverse=True,
     )[:limit]
