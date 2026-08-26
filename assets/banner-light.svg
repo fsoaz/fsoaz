@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" role="img" aria-label="Francisco Micael — Software Engineer">
+  <defs>
+    <pattern id="dots-l" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#e7ebf0"/>
+    </pattern>
+    <linearGradient id="fade-l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="14" fill="#ffffff"/>
+  <rect width="1200" height="220" rx="14" fill="url(#dots-l)"/>
+  <rect width="1200" height="220" fill="url(#fade-l)"/>
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="14" fill="none" stroke="#d0d7de"/>
+
+  <circle cx="60" cy="60" r="5" fill="#1a7f37"/>
+  <text x="78" y="65" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#57606a">fsoaz@github ~ open to backend &amp; AI-product work</text>
+
+  <text x="60" y="128" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#1b1f24">Francisco Micael</text>
+
+  <text x="60" y="164" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#0969da">Software Engineer</text>
+  <text x="252" y="164" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#57606a">— backend systems, AI-driven automation &amp; full-stack products</text>
+
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#57606a">
+    <rect x="60" y="182" width="70" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="95" y="198" text-anchor="middle" fill="#24292f">Brazil</text>
+    <rect x="140" y="182" width="76" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="178" y="198" text-anchor="middle" fill="#24292f">Python</text>
+    <rect x="226" y="182" width="102" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="277" y="198" text-anchor="middle" fill="#24292f">TypeScript</text>
+    <rect x="338" y="182" width="76" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="376" y="198" text-anchor="middle" fill="#24292f">Kotlin</text>
+  </g>
+</svg>
