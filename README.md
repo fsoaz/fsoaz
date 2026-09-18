@@ -5,7 +5,7 @@
 
 Software engineer building backend systems, AI-driven automation, and full-stack products end to end — from APIs and data pipelines to the interfaces around them. I favor simple, maintainable solutions over unnecessary complexity, and I ship most projects with tests, CI, and real documentation, not just code.
 
-**[Portfolio ↗](https://fsoaz.github.io/github-page/)** · **[GitHub](https://github.com/fsoaz)**
+**[Portfolio ↗](https://fsoaz.github.io/home/)** · **[GitHub](https://github.com/fsoaz)**
 
 ## Stack
 
