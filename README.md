@@ -75,10 +75,10 @@ Computed from bytes across my public, non-fork repositories — refreshed automa
 
 <!-- RECENT_ACTIVITY:START -->
 - **[dental-radar](https://github.com/fsoaz/dental-radar)** `Python` · _today_
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _yesterday_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _3d ago_
-- **[wiki](https://github.com/fsoaz/wiki)** `Python` · _17d ago_
-- **[sales-analysis-dashboard](https://github.com/fsoaz/sales-analysis-dashboard)** `Python` · _35d ago_
+- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _2d ago_
+- **[home](https://github.com/fsoaz/home)** `TypeScript` · _4d ago_
+- **[wiki](https://github.com/fsoaz/wiki)** `Python` · _18d ago_
+- **[sales-analysis-dashboard](https://github.com/fsoaz/sales-analysis-dashboard)** `Python` · _36d ago_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
