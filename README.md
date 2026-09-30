@@ -74,11 +74,8 @@ Computed from bytes across my public, non-fork repositories — refreshed automa
 ## Recently shipped
 
 <!-- RECENT_ACTIVITY:START -->
-- **[dental-radar](https://github.com/fsoaz/dental-radar)** `Python` · _today_
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _2d ago_
-- **[wiki](https://github.com/fsoaz/wiki)** `Python` · _3d ago_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _10d ago_
-- **[sales-analysis-dashboard](https://github.com/fsoaz/sales-analysis-dashboard)** `Python` · _42d ago_
+- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _3d ago_
+- **[home](https://github.com/fsoaz/home)** `TypeScript` · _11d ago_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
