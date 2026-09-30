@@ -3,9 +3,11 @@
   <img src="assets/banner-light.svg" alt="Francisco Micael — Software Engineer, Brazil">
 </picture>
 
-Software engineer building backend systems, AI-driven automation, and full-stack products end to end — from APIs and data pipelines to the interfaces around them. I favor simple, maintainable solutions over unnecessary complexity, and I ship most projects with tests, CI, and real documentation, not just code.
+Software engineer building backend systems, AI-driven automation, and full-stack products end to end — from APIs and data pipelines to the interfaces around them. I favor simple, maintainable solutions over unnecessary complexity, and I ship projects with tests, CI, and documentation.
 
-**[Portfolio ↗](https://fsoaz.github.io/home/)** · **[GitHub](https://github.com/fsoaz)**
+**Open to full-time roles, internships, and freelance work** in backend systems, AI-driven products, and automation.
+
+**[Portfolio ↗](https://fsoaz.github.io/home/)**
 
 ## Stack
 
@@ -19,7 +21,7 @@ Software engineer building backend systems, AI-driven automation, and full-stack
 
 ## Featured work
 
-A handful of projects that best represent how I build — the rest is on [github.com/fsoaz](https://github.com/fsoaz?tab=repositories).
+Projects that best represent how I build. The rest are on [github.com/fsoaz](https://github.com/fsoaz?tab=repositories).
 
 <table>
 <tr>
@@ -64,7 +66,7 @@ Native Android app that tracks free-trial end dates and fires exact, reboot-proo
 
 ## Language mix
 
-Computed from bytes across my public, non-fork repositories — refreshed automatically, not typed by hand.
+Share of code by bytes across my public, non-fork, non-archived repositories. Regenerated daily.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
@@ -80,4 +82,4 @@ Computed from bytes across my public, non-fork repositories — refreshed automa
 
 ---
 
-<sub>Open to full-time roles, internships, and freelance projects — particularly backend systems, AI-driven products, and automation. Stats on this page are regenerated daily by <a href=".github/workflows/update-stats.yml">a GitHub Action</a> that reads the public GitHub API — see <a href="scripts/generate_stats.py">scripts/generate_stats.py</a>.</sub>
+<sub>Stats on this page are regenerated daily by <a href=".github/workflows/update-stats.yml">a GitHub Action</a> that reads the public GitHub API — see <a href="scripts/generate_stats.py">scripts/generate_stats.py</a>.</sub>
