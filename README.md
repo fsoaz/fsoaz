@@ -76,8 +76,8 @@ Share of code by bytes across my public, non-fork, non-archived repositories. Re
 ## Recently shipped
 
 <!-- RECENT_ACTIVITY:START -->
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _8d ago_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _16d ago_
+- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _9d ago_
+- **[home](https://github.com/fsoaz/home)** `TypeScript` · _17d ago_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
