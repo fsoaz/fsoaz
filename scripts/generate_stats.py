@@ -21,8 +21,8 @@ API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# Coursework and one-off repos that shouldn't surface in the "Recently
-# shipped" feed — they're real repos (and still count toward the language
+# Coursework and one-off repos that shouldn't surface in the recent repository
+# activity feed — they're real repos (and still count toward the language
 # chart), just not part of this profile's professional narrative.
 ACTIVITY_EXCLUDE = {"pdv-food"}
 
@@ -138,8 +138,7 @@ def render_recent_activity(repos: list[dict], limit: int = 5) -> str:
     lines = []
     for repo in ranked:
         pushed = datetime.fromisoformat(repo["pushed_at"].replace("Z", "+00:00"))
-        days = (datetime.now(timezone.utc) - pushed).days
-        when = "today" if days == 0 else ("yesterday" if days == 1 else f"{days}d ago")
+        when = pushed.astimezone(timezone.utc).date().isoformat()
         lang = f"`{repo['language']}`" if repo.get("language") else "—"
         lines.append(f"- **[{repo['name']}]({repo['html_url']})** {lang} · _{when}_")
     return "\n".join(lines) if lines else "_No recent public activity._"

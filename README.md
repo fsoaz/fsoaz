@@ -3,83 +3,65 @@
   <img src="assets/banner-light.svg" alt="Francisco Micael — Software Engineer, Brazil">
 </picture>
 
-Software engineer building backend systems, AI-driven automation, and full-stack products end to end — from APIs and data pipelines to the interfaces around them. I favor simple, maintainable solutions over unnecessary complexity, and I ship projects with tests, CI, and documentation.
+I'm Francisco, a software engineer in Brazil working on backend systems, AI automation, and full-stack applications. I build with maintainability in mind, using tests, CI, and documentation to make projects easier to run and extend.
 
-**Open to full-time roles, internships, and freelance work** in backend systems, AI-driven products, and automation.
+Open to full-time roles, internships, and freelance work in backend systems, AI products, and automation.
 
-**[Portfolio ↗](https://fsoaz.github.io/home/)**
+**[Portfolio](https://fsoaz.github.io/home/)** · **[Contact](https://fsoaz.github.io/home/#contact)**
 
-## Stack
+## Featured projects
 
-| | |
-|---|---|
-| **Backend** | Python · FastAPI · PostgreSQL · SQLAlchemy |
-| **Frontend** | TypeScript · Next.js |
-| **AI / Data** | LLM agents · RAG pipelines · LLM observability & evals · Streamlit |
-| **Mobile** | Kotlin · Android (Room, clean architecture) |
-| **Delivery** | Docker · GitHub Actions · pytest |
+### Financial Market Dashboard
 
-## Featured work
+A Streamlit app for exploring stocks, indexes, and cryptocurrencies. A separate data pipeline fetches prices from yfinance and CoinGecko, calculates returns, volatility, and drawdown, and saves CSVs for interactive Plotly charts and asset comparisons.
 
-Projects that best represent how I build. The rest are on [github.com/fsoaz](https://github.com/fsoaz?tab=repositories).
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Dental Radar](https://github.com/fsoaz/dental-radar)**
-B2B sales-intelligence platform that ranks dental clinics by purchase propensity — it answers one question: *which clinics should a salesperson contact first?*
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Docker`
-
-<img src="https://raw.githubusercontent.com/fsoaz/dental-radar/main/docs/assets/dashboard.png" width="100%" alt="Dental Radar dashboard ranking clinics by priority score">
-
-</td>
-<td width="50%" valign="top">
-
-**[WikiAI](https://github.com/fsoaz/wiki)**
-AI-powered encyclopedia MVP built around claim-level citations and verification dates — grounded answers over a public, machine-readable knowledge base, not a black-box chatbot.
-`Python` `FastAPI` `Next.js` `PostgreSQL`
-
-<img src="https://raw.githubusercontent.com/fsoaz/wiki/main/docs/assets/screenshot.png" width="100%" alt="WikiAI homepage showing a cited, verifiable article">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Financial Market Dashboard](https://github.com/fsoaz/financial-market-dashboard)**
-Streamlit app for pulling and visualizing stock, index, and crypto data — returns, volatility, drawdown, and cross-asset correlation, backed by a full test suite and CI.
 `Python` `Streamlit` `Plotly` `Docker`
+
+[Source](https://github.com/fsoaz/financial-market-dashboard) · [Architecture](https://github.com/fsoaz/financial-market-dashboard/blob/main/docs/explanation/architecture.md)
 
 <img src="https://raw.githubusercontent.com/fsoaz/financial-market-dashboard/main/docs/assets/dashboard_hero.png" width="100%" alt="Financial Market Dashboard price and indicator charts">
 
-</td>
-<td width="50%" valign="top">
+### Portfolio
 
-**[Trial Reminder](https://github.com/fsoaz/TrialReminderApp)**
-Native Android app that tracks free-trial end dates and fires exact, reboot-proof reminders before you get charged.
-`Kotlin` `Room` `Clean Architecture`
+A static Next.js site with a custom WebGL black hole renderer and English/Portuguese content. Adaptive rendering quality, keyboard navigation, and fallbacks for reduced motion and unsupported WebGL keep the experience usable across devices.
 
-</td>
-</tr>
-</table>
+`TypeScript` `Next.js` `WebGL` `GLSL`
+
+[Source](https://github.com/fsoaz/home) · [Live site](https://fsoaz.github.io/home/)
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| **Backend** | Python · FastAPI · PostgreSQL · SQLAlchemy |
+| **Frontend** | TypeScript · Next.js |
+| **AI / Data** | LLM agents · RAG · Evaluations · Streamlit |
+| **Mobile** | Kotlin · Android · Room |
+| **Delivery** | Docker · GitHub Actions · pytest |
 
 ## Language mix
 
-Share of code by bytes across my public, non-fork, non-archived repositories. Regenerated daily.
+Share of code by bytes across my public, non-fork, non-archived repositories. Updated daily.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
   <img src="assets/languages-light.svg" alt="Language distribution across public repositories">
 </picture>
 
-## Recently shipped
+## Recent repository activity
+
+Latest pushes to my public projects. Dates are in UTC and reflect repository updates, including documentation and maintenance.
 
 <!-- RECENT_ACTIVITY:START -->
+<<<<<<< HEAD
 - **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _today_
 - **[home](https://github.com/fsoaz/home)** `TypeScript` · _22d ago_
+=======
+- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _2026-10-11_
+- **[home](https://github.com/fsoaz/home)** `TypeScript` · _2026-09-18_
+>>>>>>> c1d7cc8 (docs: update README and SVG banners for clarity and consistency)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
 
-<sub>Stats on this page are regenerated daily by <a href=".github/workflows/update-stats.yml">a GitHub Action</a> that reads the public GitHub API — see <a href="scripts/generate_stats.py">scripts/generate_stats.py</a>.</sub>
+<sub>Language charts and activity are updated daily from the public GitHub API. <a href=".github/workflows/update-stats.yml">Workflow</a> · <a href="scripts/generate_stats.py">Generator</a></sub>
