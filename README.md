@@ -53,13 +53,8 @@ Share of code by bytes across my public, non-fork, non-archived repositories. Up
 Latest pushes to my public projects. Dates are in UTC and reflect repository updates, including documentation and maintenance.
 
 <!-- RECENT_ACTIVITY:START -->
-<<<<<<< HEAD
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _today_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _22d ago_
-=======
 - **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _2026-10-11_
 - **[home](https://github.com/fsoaz/home)** `TypeScript` · _2026-09-18_
->>>>>>> c1d7cc8 (docs: update README and SVG banners for clarity and consistency)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
