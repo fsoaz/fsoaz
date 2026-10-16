@@ -1,67 +1,37 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Francisco Micael — Software Engineer, Brazil">
-</picture>
+<img src="assets/banner.png" width="1200" alt="Francisco Micael — Software Engineer and Founder of Black Hole Company, Brazil. Ivory lettering beside a luminous black hole.">
 
-I'm Francisco, a software engineer in Brazil working on backend systems, AI automation, and full-stack applications. I build with maintainability in mind, using tests, CI, and documentation to make projects easier to run and extend.
+I'm **Francisco Micael**, a software engineer in Brazil and founder of [Black Hole Company](https://blackholeco.com.br/en-US). I build backend systems, AI workflows, and web applications that help businesses connect their tools and reduce manual work.
 
-Open to full-time roles, internships, and freelance work in backend systems, AI products, and automation.
+My focus is practical, maintainable software: understand the problem, build what fits, and make it straightforward to run and extend.
 
-**[Portfolio](https://fsoaz.github.io/home/)** · **[Contact](https://fsoaz.github.io/home/#contact)**
+**[Discuss a project ↗](https://blackholeco.com.br/en-US#contact)** &nbsp; · &nbsp; [Personal portfolio](https://fsoaz.github.io/home/)
 
-## Featured projects
+---
 
-### Financial Market Dashboard
+## How I can help
 
-A Streamlit app for exploring stocks, indexes, and cryptocurrencies. A separate data pipeline fetches prices from yfinance and CoinGecko, calculates returns, volatility, and drawdown, and saves CSVs for interactive Plotly charts and asset comparisons.
+- **Backend & integrations** — APIs, data models, and connections between the systems your business relies on.
+- **Automation & AI** — Workflows that reduce repetitive tasks and make information easier to find and use.
+- **Web applications** — Internal tools and full-stack applications built around the way your business works.
 
-`Python` `Streamlit` `Plotly` `Docker`
+## Current stack
 
-[Source](https://github.com/fsoaz/financial-market-dashboard) · [Architecture](https://github.com/fsoaz/financial-market-dashboard/blob/main/docs/explanation/architecture.md)
-
-<img src="https://raw.githubusercontent.com/fsoaz/financial-market-dashboard/main/docs/assets/dashboard_hero.png" width="100%" alt="Financial Market Dashboard price and indicator charts">
-
-### Portfolio
-
-A static Next.js site with a custom WebGL black hole renderer and English/Portuguese content. Adaptive rendering quality, keyboard navigation, and fallbacks for reduced motion and unsupported WebGL keep the experience usable across devices.
-
-`TypeScript` `Next.js` `WebGL` `GLSL`
-
-[Source](https://github.com/fsoaz/home) · [Live site](https://fsoaz.github.io/home/)
-
-## Stack
-
-| Area | Tools |
-|---|---|
+| Area | Technologies & practices |
+| :--- | :--- |
 | **Backend** | Python · FastAPI · PostgreSQL · SQLAlchemy |
 | **Frontend** | TypeScript · Next.js |
 | **AI / Data** | LLM agents · RAG · Evaluations · Streamlit |
 | **Mobile** | Kotlin · Android · Room |
 | **Delivery** | Docker · GitHub Actions · pytest |
 
-## Language mix
+## How I work
 
-Share of code by bytes across my public, non-fork, non-archived repositories. Updated daily.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <img src="assets/languages-light.svg" alt="Language distribution across public repositories">
-</picture>
-
-## Recent repository activity
-
-Latest pushes to my public projects. Dates are in UTC and reflect repository updates, including documentation and maintenance.
-
-<!-- RECENT_ACTIVITY:START -->
-<<<<<<< HEAD
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _today_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _22d ago_
-=======
-- **[financial-market-dashboard](https://github.com/fsoaz/financial-market-dashboard)** `Python` · _2026-10-11_
-- **[home](https://github.com/fsoaz/home)** `TypeScript` · _2026-09-18_
->>>>>>> c1d7cc8 (docs: update README and SVG banners for clarity and consistency)
-<!-- RECENT_ACTIVITY:END -->
+I start with the business context and choose the tools to fit. Tests, continuous integration, and clear documentation help keep the result reliable and maintainable through delivery and handover.
 
 ---
 
-<sub>Language charts and activity are updated daily from the public GitHub API. <a href=".github/workflows/update-stats.yml">Workflow</a> · <a href="scripts/generate_stats.py">Generator</a></sub>
+### Have a process or system that needs to work better?
+
+Tell me what you use today, where the friction is, and what you want to change.
+
+**[Let's discuss it at Black Hole Company ↗](https://blackholeco.com.br/en-US#contact)**
